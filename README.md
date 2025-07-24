@@ -28,7 +28,7 @@ I chose GSAP because it makes complex, buttery-smooth animations easy and fun to
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/yourusername/jsm_gta_vi_landing.git
-   cd jsm_gta_vi_landing
+   cd gta_vi_landing
    ```
 2. **Install dependencies:**
    ```bash
