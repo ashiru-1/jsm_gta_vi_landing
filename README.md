@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="public/images/logo.webp" alt="GTA VI Logo" width="200"/>
-</p>
+
 
 # GTA VI Landing Page (Fan Project)
 
@@ -24,12 +22,7 @@ I built this project out of my love for the GTA series and my excitement for the
 ## 🎬 Why GSAP?
 I chose GSAP because it makes complex, buttery-smooth animations easy and fun to implement. It helped bring the GTA vibe to life on this page.
 
-## 📸 Screenshots
-<p align="center">
-  <img src="public/readme/hero.png" alt="Hero Section" width="400"/>
-  <img src="public/readme/jsmpro.png" alt="Project Screenshot" width="400"/>
-  <img src="public/readme/videokit.png" alt="Video Section" width="400"/>
-</p>
+
 
 ## 🛠️ Getting Started
 1. **Clone the repo:**
